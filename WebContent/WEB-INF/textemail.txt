@@ -1,0 +1,8 @@
+$CourseTitle
+
+Para tomar el curso usted debe hacer click en el enlace a continuación y 
+usar los siguientes datos de acceso:
+<ul>
+	<li>Username/Email: $Email </li>
+	<li>Password: $Password </li>
+</ul>

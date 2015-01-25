@@ -1,0 +1,10 @@
+Se ha creado un nuevo caso para <b> $FirstName $LastName </b>en SalesForce. <br>
+
+<ul>
+	<li>La cuenta de Email del Usuario es: $Email </li>
+	<li>El curso que compro el Usuario fue: $CourseTitle </li>
+	<li>El numero del Caso es: $CaseNumber </li>
+</ul>
+
+Muchas Gracias,<br>
+MJChalkStack
